@@ -1,9 +1,9 @@
-﻿# Mobile and Social Computing – CA1 Lab 1
+# Mobile and Social Computing – CA1 Lab 1
 
-**Student Name:** Barbara Campos
-**Student Number:** 20120669
-**Application Name:** My Student App
-**Framework:** Ionic React
+**Student Name:** Barbara Campos  
+**Student Number:** 20120669  
+**Application Name:** My Student App  
+**Framework:** Ionic React  
 **Technology:** Ionic Framework, React, TypeScript
 
 ## Application Description
